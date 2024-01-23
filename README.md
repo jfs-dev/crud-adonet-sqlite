@@ -27,6 +27,8 @@ Ao utilizar ADO.NET, os desenvolvedores têm mais controle direto sobre as opera
 ## Referências
 https://learn.microsoft.com/pt-br/dotnet/framework/data/adonet/
 
+https://learn.microsoft.com/pt-br/dotnet/standard/data/sqlite/?tabs=netcore-cli
+
 https://www.sqlite.org/
 
 https://sqlitebrowser.org/
