@@ -17,7 +17,7 @@ Ao utilizar ADO.NET, os desenvolvedores têm mais controle direto sobre as opera
 
 **SqliteCommand:** A classe SqliteCommand representa uma instrução SQL ou uma stored procedure que será executada no banco de dados. Ela é usada para executar consultas, comandos de atualização, inserção, exclusão e outras operações no banco de dados.
 
-**SqliteDataReader** A classe SqliteDataReader é usada para ler um fluxo de dados de uma consulta SQL executada no banco de dados. Ela permite iterar sobre as linhas retornadas pela consulta.
+**SqliteDataReader:** A classe SqliteDataReader é usada para ler um fluxo de dados de uma consulta SQL executada no banco de dados. Ela permite iterar sobre as linhas retornadas pela consulta.
 
 <div align="center">
     <img src="https://github.com/jfs-dev/crud-adonet-sqlite/assets/54154628/90b136e7-2008-4d91-a2b3-9e2b6c8c011b"</img>
